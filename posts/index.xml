@@ -15,9 +15,9 @@
 			<pubDate>Tue, 21 Feb 2017 09:41:00 +0000</pubDate>
 			
 			<guid>https://jackolney.github.io/posts/2017-02-21-croi/</guid>
-			<description>For the second year in a row, I was invited to speak at the annual Conference on Retroviruses and Opportunistic Infections (CROI). This year the conference was held in one of my favourite cities, Seattle.
+			<description>For the second year in a row, I was invited to speak at the annual Conference on Retroviruses and Opportunistic Infections (CROI). This year the conference was held in one of my favourite cities, Seattle I have more 1 to say.
 I spoke about my new web-based modelling tool that enables countries to enter data on their HIV care programmes, estimate the achievement of the UNAIDS 90-90-90 and prioritise strategies to achieve these goals by the target date of 2020.</description>
-			<content type="html"><![CDATA[<p>For the second year in a row, I was invited to speak at the annual <a href="http://www.croiconference.org/">Conference on Retroviruses and Opportunistic Infections (CROI)</a>. This year the conference was held in one of my favourite cities, Seattle.</p>
+			<content type="html"><![CDATA[<p>For the second year in a row, I was invited to speak at the annual <a href="http://www.croiconference.org/">Conference on Retroviruses and Opportunistic Infections (CROI)</a>. This year the conference was held in one of my favourite cities, Seattle I have more <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> to say.</p>
 
 <p>I spoke about my new web-based modelling tool that enables countries to enter data on their HIV care programmes, estimate the achievement of the <a href="http://www.unaids.org/en/resources/documents/2014/90-90-90">UNAIDS 90-90-90</a> and prioritise strategies to achieve these goals by the target date of 2020.</p>
 
@@ -28,6 +28,15 @@ I spoke about my new web-based modelling tool that enables countries to enter da
 <p>Below is a video of my talk:</p>
 
 <iframe width="100%" height="600" src="http://www.croiwebcasts.org/console/player/33591?mediaType=slideVideo" frameborder="0" allowfullscreen></iframe>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Footnote example.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+</ol>
+</div>
 ]]></content>
 		</item>
 		
