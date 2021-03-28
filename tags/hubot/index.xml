@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+>>>>>>> cf1e6e8ae2972ecf5144687074e0d1eaa70157bc
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hubot on Jack Olney</title>
@@ -7,7 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 09 Jan 2016 09:41:00 +0000</lastBuildDate><atom:link href="https://jackolney.github.io/tags/hubot/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Sat, 09 Jan 2016 09:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jackolney.github.io/tags/hubot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+>>>>>>> cf1e6e8ae2972ecf5144687074e0d1eaa70157bc
     <item>
       <title>Hubot - a Siri to call my own</title>
       <link>https://jackolney.github.io/posts/2016-01-09-hubot/</link>
@@ -18,4 +30,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> cf1e6e8ae2972ecf5144687074e0d1eaa70157bc
