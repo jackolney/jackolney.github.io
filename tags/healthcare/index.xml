@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>healthcare on Jack Olney</title>
-    <link>https://jackolney.github.io/tags/healthcare/</link>
-    <description>Recent content in healthcare on Jack Olney</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jackolney.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rapid access to health data in the UK</title>
-      <link>https://jackolney.github.io/posts/2020-03-06-health-data/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jackolney.github.io/posts/2020-03-06-health-data/</guid>
-      <description>In the field of public health, there is a need to access health and healthcare-related data much faster than ever before.
-A pertinent example of this is the current coronavirus outbreak (COVID-19). In early February 2020, merely days after the first cases were confirmed in the UK, the Department of Health and Social Care along with UK Research &amp;amp; Innovation announced a £20M investment to facilitate rapid research on the virus by world-class UK academic and industry experts1.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Healthcare on Jack Olney</title><link>https://jackolney.github.io/tags/healthcare/</link><description>Recent content in Healthcare on Jack Olney</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jackolney.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml"/><item><title>Rapid access to health data in the UK</title><link>https://jackolney.github.io/posts/2020-03-06-health-data/</link><pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate><guid>https://jackolney.github.io/posts/2020-03-06-health-data/</guid><description>&lt;p>In the field of public health, there is a need to access health and healthcare-related data much
+faster than ever before.&lt;/p>
+&lt;p>A pertinent example of this is the current coronavirus outbreak (COVID-19). In early February 2020,
+merely days after the first cases were confirmed in the UK, the &lt;a href="https://www.gov.uk/government/organisations/department-of-health-and-social-care">Department of Health and Social Care&lt;/a>
+along with &lt;a href="https://www.ukri.org/">UK Research &amp;amp; Innovation&lt;/a> announced a £20M investment to
+facilitate rapid research on the virus by world-class UK academic and industry experts&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
+Encouragingly, this announcement was met with great interest across the sector and my hope is this
+funding will enable us to ultimately control the current outbreak.&lt;/p></description></item></channel></rss>
